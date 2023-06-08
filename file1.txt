@@ -1,1 +1,2 @@
 Testing the git squash
+Adding more content to this file
